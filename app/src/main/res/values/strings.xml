@@ -21,4 +21,6 @@
     <string name="layout_based">Layout Based</string>
     <string name="scroll_based">Scroll Based</string>
     <string name="msg_clicked">Hi! I am Clicked and my position is changed.</string>
+    <string name="text_label_1">option 1</string>
+    <string name="text_label_2">option_2</string>
 </resources>
